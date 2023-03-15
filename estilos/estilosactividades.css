@@ -1,0 +1,42 @@
+h2{
+    font-family: monospace;
+    color: cadetblue;
+    font-size:3em;
+    text-align: center;
+}
+header{
+    background-image:url(bacho2.jpg);
+    width: 100%;
+    height: 120px;
+    padding: 5px;
+    border: 2px solid white;
+    box-sizing: border-box;
+}
+p{
+    text-align: center;
+    font-family: monospace;
+    font-size:1em;
+    font-style: italic;
+}
+.e1{
+    margin:auto;
+    display:block;
+     border:solid;
+    color: white;
+    border-radius:16px;
+}
+.e2{
+    float: left;
+    display:inline-block;
+     border:solid;
+    color: white;
+    border-radius:16px;
+    position: relative;
+}
+.e3{
+    float: right;
+    display:inline-block;
+     border:solid;
+    color: white;
+    border-radius:16px;
+}

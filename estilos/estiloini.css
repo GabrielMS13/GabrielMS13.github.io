@@ -1,0 +1,118 @@
+h2{
+    font-family: monospace;
+    color: cadetblue;
+    font-size:3em;
+    text-align: center;
+}
+header{
+    background-image:url(bacho2.jpg);
+    width: 100%;
+    height: 120px;
+    padding: 5px;
+    border: 2px solid white;
+    box-sizing: border-box;
+}
+#texto1{
+    text-align: center;
+    font-family: monospace;
+    font-size:1em;
+    font-style: italic;
+}
+#texto2{
+    text-align: center;
+    font-family: monospace;
+    font-size:1em;
+    font-style: italic;
+}
+#img1{
+    display: block;
+    margin: auto;
+}
+ul{
+    margin:12px;
+    padding:10px;
+    display: inline-block;
+    font-family: monospace;
+    border: solid;
+    border-color: cadetblue;
+}
+#horario1{
+    margin:12px;
+    padding:10px;
+    display: inline-block;
+    font-family: monospace;
+    border: solid;
+    border-color: cadetblue;
+}
+#horario2{
+       margin:12px;
+    padding:10px;
+    display: inline-block;
+    font-family: monospace;
+    border: solid;
+    border-color: cadetblue;
+}
+#horario3{
+       margin:12px;
+    padding:10px;
+    display: inline-block;
+    font-family: monospace;
+    border: solid;
+    border-color: cadetblue;
+}
+#horario4{
+       margin:12px;
+    padding:10px;
+    display: inline-block;
+    font-family: monospace;
+    border: solid;
+    border-color: cadetblue;
+}
+#horario5{
+       margin:12px;
+    padding:10px;
+    display: inline-block;
+    font-family: monospace;
+    border: solid;
+    border-color: cadetblue;
+}
+#horario6{
+        margin:12px;
+    padding:10px;
+    display: inline-block;
+    font-family: monospace;
+    border: solid;
+    border-color: cadetblue;
+}
+#horario7{
+        margin:12px;
+    padding:10px;
+    display: inline-block;
+    font-family: monospace;
+    border: solid;
+    border-color: cadetblue;
+}
+#horario8{
+       margin:12px;
+    padding:10px;
+    display: inline-block;
+    font-family: monospace;
+    border: solid;
+    border-color: cadetblue;
+}
+#horario9{
+     margin:12px;
+    padding:10px;
+    display: inline-block;
+    font-family: monospace;
+    border: solid;
+    border-color: cadetblue;
+}
+#horario10{
+    margin:12px;
+    padding:10px;
+    display: inline-block;
+    font-family: monospace;
+    border: solid;
+    border-color: cadetblue;
+}
